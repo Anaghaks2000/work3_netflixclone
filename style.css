@@ -40,7 +40,7 @@ header{
 }
 /* banner */
 header{
-    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%),url(/image/banner\ image.jpg);
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%),url(image/banner\ image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
